@@ -1,0 +1,7 @@
+uwsgi:
+  socket: /var/run/webpy.sock
+  master: 1
+  workers: 10
+  harakiri: 120
+  daemonize: /var/log/uwsgi.log
+  wsgi-file: /home/leandro/Devel/tornado/storage.py

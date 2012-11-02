@@ -1,0 +1,5 @@
+uwsgi:
+  socket: /var/run/webpy.sock
+  master: 1
+  daemonize: /var/log/uwsgi.log
+  wsgi-file: /home/leandro/Devel/tornado/server.py

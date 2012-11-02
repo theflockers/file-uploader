@@ -1,0 +1,11 @@
+09-21-12 13:14:31	10.30.12.109	INFO	shared	Create User	user_id=admin
+09-21-12 13:14:43	10.30.12.109	INFO	admin	Log In	
+09-21-12 13:14:51	10.30.12.109	INFO	admin	Get_content	files=/AjaXplorer-QuickStart.txt
+09-21-12 13:48:07	10.30.12.109	INFO	admin	Log Out	
+09-21-12 18:37:25	10.30.12.109	INFO	admin	Log In	
+09-21-12 18:38:21	10.30.12.109	INFO	admin	Move	files=/4/b0/e4429611;destination=/recycle_bin
+09-21-12 18:38:30	10.30.12.109	INFO	admin	Delete	files=/recycle_bin/e4429611
+09-21-12 18:38:36	10.30.12.109	INFO	admin	Move	files=/4/b0/e/2012-05-21_09-59-51_249.jpg;destination=/recycle_bin
+09-21-12 19:03:23	10.30.12.109	INFO	admin	Log Out	
+09-21-12 20:19:18	10.30.12.109	INFO	admin	Log In	
+09-21-12 20:35:38	10.30.12.109	INFO	admin	Download	files=/4/b0/e/4429611/5-product.jpg
